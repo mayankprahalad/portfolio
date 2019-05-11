@@ -47,10 +47,10 @@ body{
 	transform:translateX(1em);
 
 }
-h1{
-	font-size: 2.5em;
+.acads1{
+	font-size: 1.6em;
 	font-family: 'Saira Semi Condensed', sans-serif;
-	animation-name: text 3s 1;
+	animation: text 3s 1;
 
 }
 @keyframes text{

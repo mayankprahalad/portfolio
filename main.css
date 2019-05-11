@@ -68,3 +68,7 @@ body{
 	margin-right: 7em;
 
 }
+.des_sec2:hover{
+	color: red;
+	transform: scale(1.2);
+}
